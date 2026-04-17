@@ -1,0 +1,26 @@
+[
+    {
+        "title": "hi whats up",
+        "completed": false
+    },
+    {
+        "title": "what is love",
+        "completed": false
+    },
+    {
+        "title": "hi",
+        "completed": true
+    },
+    {
+        "title": "me too",
+        "completed": false
+    },
+    {
+        "title": "task in dictionart",
+        "completed": false
+    },
+    {
+        "title": "new age of tasks",
+        "completed": false
+    }
+]
