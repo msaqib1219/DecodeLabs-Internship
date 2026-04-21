@@ -1,0 +1,7 @@
+[project]
+name = "task-3"
+version = "0.1.0"
+description = "Enterprise Random Password Generator with NIST 2024 compliance"
+readme = "README.md"
+requires-python = ">=3.6"
+dependencies = []
